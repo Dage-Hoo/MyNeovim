@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "Lua.workspace.library": [
+        "/home/dage/.config/nvim",
+        "/home/dage/.local/share/nvim/site",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/nvim-treesitter-textobjects",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/zephyr-nvim",
+        "/usr/local/share/nvim/runtime",
+        "/usr/local/lib/nvim",
+        "/home/dage/.local/share/nvim/site/pack/packer/start/zephyr-nvim/after",
+        "${3rd}/luassert/library"
+    ]
+}
