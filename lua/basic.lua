@@ -79,3 +79,8 @@ vim.o.showtabline = 4
 vim.o.showmode = false
 -- 配置剪切板
 vim.opt.clipboard = "unnamedplus"
+vim.api.nvim_create_autocmd({ "InsertLeave", "TextChanged" }, {
+    pattern = { "*" },
+    command = "silent! wall",
+    nested = true,
+})
